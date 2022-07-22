@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 21, 2022 (Example 1)
-{::comment} ##### (delete me or comment me out) {:/comment}
+##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
