@@ -4,6 +4,12 @@
 
 **Today's Progress**: 
 
-**Thoughts:** I
+Odin Project Lessons covered today:
+Emmet, SVG, HTML Tables
 
-**Link to work:** [Calculator App](http://www.example.com)
+New course about Full-stack Javascript Begins
+
+**Thoughts:** 
+
+Great oportunity to advance to the next level so I feel excited about the new lessons!
+
