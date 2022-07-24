@@ -22,3 +22,13 @@ Practice tables creations using HTML & CSS
 **Thoughts:** 
 
 I was thinking that I didn't need this lesson, but actually helped me to update about the topic and play a little bit with tables. Great lesson! 
+
+### Day 2: July 23, 2022
+
+**Today's Progress**: 
+
+CSS Units, Text Styles & Intermedian CSS Properties
+
+**Thoughts:** 
+
+One more day closer to the goal!
